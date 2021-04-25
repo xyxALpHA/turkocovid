@@ -10,7 +10,7 @@ hepsi bu...
 
 ##kullanim
 
-git clone
+git clone https://github.com/xyxALpHA/turkocovid.git
 cd turkocovid
 chmod +x turkocovid.py
 python3 turkocovid.py
